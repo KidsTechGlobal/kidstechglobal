@@ -4,6 +4,7 @@
 
 .mid-home-section {
    margin-bottom: 30px;
+   padding: 20px;
 }
 
 .mid-home-section h2 {
@@ -12,4 +13,24 @@
 
 .mid-home-section img {
    padding: 20px;
+}
+
+.about-section span {
+   font-size: 25px;
+}
+
+.ceo-section {
+   margin: 30px;
+}
+
+.footer-section {
+   padding: 40px;
+}
+
+.slide-section {
+   margin: 30px;
+}
+
+#read-more-section h1 {
+   margin-top: 30px;
 }
